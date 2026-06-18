@@ -1,0 +1,8 @@
+customtkinter>=5.2.0
+faster-whisper>=1.0.0
+pypinyin>=0.52.0
+pykakasi>=2.2.1
+hangul-romanize>=0.1.0
+requests>=2.31.0
+deep-translator>=1.11.4
+google-generativeai>=0.8.0
